@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     telephone: false,
   },
   icons: {
-    icon: '/positive-thinking.png',
+    icon: '/thumbnail.png',
   }
 }
 
@@ -39,8 +39,8 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="apple-mobile-web-app-title" content="Mood Tracker" />
-        <link rel="apple-touch-icon" href="/icon-192.png" />
-        <link rel="icon" type="image/png" href="/icon-192.png" />
+        <link rel="apple-touch-icon" href="/thumbnail.png" />
+        <link rel="icon" type="image/png" href="/thumbnail.png" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

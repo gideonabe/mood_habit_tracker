@@ -7,7 +7,7 @@ export default function Head() {
       {/* Open Graph */}
       <meta property="og:title" content="Mood Habit Tracker" />
       <meta property="og:description" content="Track your mood and notes with ease." />
-      <meta property="og:image" content="https://mood-habit-tracker-gilt.vercel.app//thumbnail.png" />
+      <meta property="og:image" content="https://mood-habit-tracker-gilt.vercel.app/thumbnail.png" />
       <meta property="og:url" content="https://mood-habit-tracker-gilt.vercel.app" />
       <meta property="og:type" content="website" />
 
