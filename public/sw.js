@@ -1,5 +1,5 @@
 const CACHE_NAME = "mood-tracker-v1"
-const urlsToCache = ["/", "/insights", "/manifest.json", "/thumbnail.png"]
+const urlsToCache = ["/", "/insights", "/manifest.json", "/positive.png"]
 
 // Install event - cache essential files
 self.addEventListener("install", (event) => {
