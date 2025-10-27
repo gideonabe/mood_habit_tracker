@@ -11,7 +11,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Mood Habit Tracker",
   description: "Track your mood and daily habits with beautiful insights",
-  // generator: "v0.app",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
