@@ -165,7 +165,8 @@ export function TodayDashboard() {
       {/* Header */}
       <div className="mb-8">
         <h1 className="text-4xl font-light mb-2 text-foreground">Today</h1>
-        <p className="text-muted-foreground">
+        {/* <p className="text-muted-foreground text-white"> */}
+        <p className="text-gray-200">
           {/* {new Date().toLocaleDateString("en-US", {
             weekday: "long",
             month: "long",
